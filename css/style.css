@@ -727,6 +727,12 @@ span {
     color: var(--main-color);
 }
 
+.footer-text h3{
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--main-color);
+}
+
 
 /* ANIMATION RELOAD AND SCROLL */
 .animate {
